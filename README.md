@@ -13,5 +13,5 @@
 MIT
 
 ## Support
-for PXT/microbit (The metadata above is needed for package search.)
+for PXT/microbit
 
